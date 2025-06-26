@@ -21,5 +21,4 @@ I’m **Shravani Kamsani**, a Computer Science and Engineering student passionat
 
 ---
 
-## 📁 Project Structure
 
