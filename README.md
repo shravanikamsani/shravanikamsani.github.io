@@ -13,10 +13,9 @@ Welcome to my personal portfolio website! This site showcases my journey, skills
 
 I’m **Shravani Kamsani**, a Computer Science and Engineering student passionate about **Artificial Intelligence** and **Machine Learning**. This portfolio highlights:
 
+- Resume
 - My technical skills
 - Certifications
-- Projects
-- Resume
 - Contact links (LinkedIn, GitHub, Email)
 
 ---
