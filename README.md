@@ -16,6 +16,7 @@ I’m **Shravani Kamsani**, a Computer Science and Engineering student passionat
 - Resume
 - My technical skills
 - Certifications
+- Projects 
 - Contact links (LinkedIn, GitHub, Email)
 
 ---
