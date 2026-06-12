@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my journey, skills
 
 ## 🌐 Live Preview
 
-[Click here to view the live site](https://shravanikamsani.github.io/)  
+[Click here to view my portfolio](https://shravanikamsani.github.io/)  
 
 
 ---
